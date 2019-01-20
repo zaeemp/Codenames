@@ -1,0 +1,14 @@
+#names_table{
+	margin-top: 2%;
+	border-collapse: collapse;
+}
+
+table{
+	width: 100%;
+}
+
+table, td {
+  border: 1px solid black;
+  padding: 25px 10px;
+  text-align: center;
+}
